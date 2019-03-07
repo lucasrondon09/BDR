@@ -10,7 +10,7 @@ Projeto Front End utilizado em processo seletivo da DOT Group em Florianópolis
 
 [Ver o site](http://unibrasilsistemas.com.br)
 
-<img src="http://www.lucasrondon.com.br/img/portfolio/thumbnails/dot.jpg">
+<img src="https://github.com/lucasrondon09/Lucas/blob/master/img/portfolio/thumbnails/dot.jpg">
 
 
 
